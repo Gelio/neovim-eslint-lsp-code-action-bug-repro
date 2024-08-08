@@ -6,3 +6,5 @@ servers.
 
 See <https://github.com/neovim/neovim/issues/30001> for more information and
 reproduction steps.
+
+The bug has been fixed, so the repository is archived.
